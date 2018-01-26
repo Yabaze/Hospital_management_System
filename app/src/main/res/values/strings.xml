@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">hospital</string>
+    <string name="title_activity_admin_page">admin_page</string>
+    <string name="name">Name</string>
+    <string name="username">UserName</string>
+
+    <string name="user_id">username</string>
+    <string name="password">Password</string>
+    <string name="dob">Date of Birth</string>
+    <string name="address">Address</string>
+    <string name="sign_up">Sign_up</string>
+    <string name="blood_groub">Blood_groub</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="textview">HOME</string>
+    <string name="todo">TODO</string>
+    <string name="patient_registration">Patient-Registration</string>
+    <string name="rotate">Rotate</string>
+    <string name="create_new_a_c">Create New A/c</string>
+    <string name="CLOSE">close</string>
+    <string name="show">show</string>
+
+
+    <string-array name="blood_groub_drop_menu">
+        <item name="A-positive">A +ve</item>
+        <item name="A-Negative">A -ve</item>
+        <item name="B-positive">B +ve</item>
+        <item name="B-Negative">B -ve</item>
+        <item name="O-positive">O +ve</item>
+        <item name="O-Negative">O -ve</item>
+        <item name="AB-positive">AB +ve</item>
+        <item name="AB-Negative">AB -ve</item>
+        <item name="A1-positive">A1 +ve</item>
+        <item name="A1-Negative">A1 -ve</item>
+        <item name="A2-positive">A2 +ve</item>
+        <item name="A2-Negative">A2 -ve</item>
+        <item name="A1B-positive">A1B +ve</item>
+        <item name="A1B-Negative">A1B -ve</item>
+    </string-array>
+    <string-array name="member">
+        <item>admin</item>
+        <item>doctor</item>
+        <item>nurse</item>
+    </string-array>
+    <string-array name="all_member">
+        <item>patient</item>
+        <item>admin</item>
+        <item>doctor</item>
+        <item>nurse</item>
+    </string-array>
+</resources>

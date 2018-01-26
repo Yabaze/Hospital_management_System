@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145281832478",
+    "firebase_url": "https://hospital2-19ba0.firebaseio.com",
+    "project_id": "hospital2-19ba0",
+    "storage_bucket": "hospital2-19ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145281832478:android:8a5ae055eb8fc7d0",
+        "android_client_info": {
+          "package_name": "com.thomas.mirakle.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145281832478-49oflvtl5l9bijv32o798og9b2ne9727.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thomas.mirakle.hospital",
+            "certificate_hash": "945d387c4f491e1fc8d2155532725609723b5dc5"
+          }
+        },
+        {
+          "client_id": "145281832478-abtt8sa7qio8jtrlqt8jb1e1uuql63uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDP4osqK3eFjTzpDtAg2xZt17Qunl3X0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145281832478-abtt8sa7qio8jtrlqt8jb1e1uuql63uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
